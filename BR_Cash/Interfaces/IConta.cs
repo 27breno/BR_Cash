@@ -14,7 +14,7 @@ namespace BR_Cash.interfaces{
       
 
         void ExibirInformacoe();
-        double GetSaldo();
+       
     }
 
 }
